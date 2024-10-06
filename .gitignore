@@ -26,3 +26,4 @@ dist-ssr
 *.db-shm
 *.db-wal
 *.db
+pb_data/storage
